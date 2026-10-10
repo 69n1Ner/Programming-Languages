@@ -1,0 +1,6 @@
+*.o
+*.asm
+!lib.asm
+*.xml
+.venv/
+__pycache__/
